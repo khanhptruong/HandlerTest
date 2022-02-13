@@ -3,10 +3,7 @@
 
 #include <iostream>
 
-#include "NumberValidator.h"
-#include "BaseValidator.h"
-#include "EvenValidator.h"
-#include "OddValidator.h"
+#include "NumberValidatorHeaders.h"
 
 int main()
 {
